@@ -2,4 +2,6 @@ Linia 1
 Poprawka HotFix
 Linia 2
 Linia 3
-Funkcjonalnoœæ w branchu feature
+Funkcjonalnoœæ w branchu feature.
+Zakoñczenie funkcjonalnoœci feature.
+
